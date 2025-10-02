@@ -14,8 +14,10 @@
 
 ### 🖼️ Demonstração
 
-<p align="center">
-  <img src="" alt="Demonstração do projeto" width="700"/>
+<p align="center"> 
+
+  
+  <img width="1599" height="564" alt="New Jeans Club" src="https://github.com/user-attachments/assets/77db9d7e-3a82-4169-9a0a-878658fd8011" />
 </p>
 
 ---
