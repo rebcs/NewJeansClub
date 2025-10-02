@@ -3,13 +3,6 @@
 <p align="center">
   <i>Projeto desenvolvido para a disciplina de Programação WEB. O intuito foi criar um blog responsivo do grupo de kpop "New Jeans", incluindo a discografia do grupo e quais são as integrantes do mesmo.</i>
 </p>
-
-<p align="center">
-  <a href="" target="_blank">
-    <img src="https://new-jeans-club.vercel.app/" alt="Ver Demo Online"/>
-  </a>
-</p>
-
 ---
 
 ### 🖼️ Demonstração
